@@ -56,6 +56,24 @@ WHATSAPP_GATEWAY_TOKEN=
 DASHBOARD_DATA_CUTOFF_ISO=2026-03-18T00:00:00+00:00
 ```
 
+UltraMsg credentials setup (for live WhatsApp sync):
+
+1. Open your UltraMsg instance panel:
+  - https://user.ultramsg.com/
+2. Copy your instance API token from the instance settings/API section.
+3. Set these values in `.env`:
+
+```env
+WHATSAPP_GATEWAY_URL=https://api.ultramsg.com/instance********
+WHATSAPP_GATEWAY_TOKEN=your_ultramsg_api_token
+```
+
+4. Optional (recommended): in UltraMsg webhook settings, set your webhook URL to:
+  - `http://localhost:8000/api/whatsapp/webhook`
+  - For deployed environments, use your public backend URL instead of localhost.
+
+Note: use the instance base URL only (for example `https://api.ultramsg.com/instance166098`). Do not append endpoint paths like `/messages/chat`.
+
 Run backend:
 
 ```bash
