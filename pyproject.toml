@@ -1,0 +1,14 @@
+[project]
+name = "beastboard"
+version = "0.1.0"
+description = "AI-driven customer care automation and intelligence dashboard"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+	"fastapi>=0.116.0",
+	"httpx>=0.28.1",
+	"openai>=1.107.0",
+	"pydantic-settings>=2.10.1",
+	"python-dotenv>=1.1.1",
+	"uvicorn[standard]>=0.35.0",
+]
