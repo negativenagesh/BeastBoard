@@ -1,11 +1,11 @@
 # BeastBoard
 
-[![GitHub stars](https://img.shields.io/github/stars/negativenagesh/BeastBoard?style=social)](https://github.com/negativenagesh/BeastBoard)
-[![GitHub forks](https://img.shields.io/github/forks/negativenagesh/BeastBoard?style=social)](https://github.com/negativenagesh/BeastBoard)
-![GitHub issues](https://img.shields.io/github/issues/negativenagesh/BeastBoard)
-![GitHub license](https://img.shields.io/github/license/negativenagesh/BeastBoard)
+[![GitHub stars](https://img.shields.io/github/stars/negativenagesh/BeastBoard.svg?style=social)](https://github.com/negativenagesh/BeastBoard/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/negativenagesh/BeastBoard.svg?style=social)](https://github.com/negativenagesh/BeastBoard/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/negativenagesh/BeastBoard.svg)](https://github.com/negativenagesh/BeastBoard/issues)
+[![GitHub license](https://img.shields.io/github/license/negativenagesh/BeastBoard.svg)](https://github.com/negativenagesh/BeastBoard/blob/main/LICENSE)
 <p>
-  <img src="logo/Beast.png" alt="HAG Banner" width="800" />
+  <img src="logo/Beast.png" alt="BeastBoard Banner" width="800" />
 </p>
 
 BeastBoard is an AI-powered support analytics dashboard. It ingests customer messages (primarily from WhatsApp self-chat sync), classifies each message into a support category, stores results in SQLite, and presents real-time operational insights in a React dashboard.
