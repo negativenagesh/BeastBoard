@@ -11,19 +11,7 @@
 BeastBoard is an AI-powered support analytics dashboard. It ingests customer messages (primarily from WhatsApp self-chat sync), classifies each message into a support category, stores results in SQLite, and presents real-time operational insights in a React dashboard.
 
 <p align="left">
-  <img src="dashboard-images/1.png" alt="BeastBoard Dashboard 1" width="800" />
-</p>
-<p align="left">
-  <img src="dashboard-images/2.png" alt="BeastBoard Dashboard 2" width="800" />
-</p>
-<p align="left">
-  <img src="dashboard-images/3.png" alt="BeastBoard Dashboard 3" width="800" />
-</p>
-<p align="left">
-  <img src="dashboard-images/4.png" alt="BeastBoard Dashboard 4" width="800" />
-</p>
-<p align="left">
-  <img src="dashboard-images/5.png" alt="BeastBoard Dashboard 5" width="800" />
+  <img src="logo/BeastBoard.gif" alt="BeastBoard Dashboard Demo" width="800" />
 </p>
 
 ## Setup
