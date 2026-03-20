@@ -2,8 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/negativenagesh/BeastBoard?style=social)](https://github.com/negativenagesh/BeastBoard)
 [![GitHub forks](https://img.shields.io/github/forks/negativenagesh/BeastBoard?style=social)](https://github.com/negativenagesh/BeastBoard)
-![GitHub issues](https://img.shields.io/github/issues/negativenagesh/BeastBoard)
-![GitHub license](https://img.shields.io/github/license/negativenagesh/BeastBoard)
+[![GitHub issues](https://img.shields.io/github/issues/negativenagesh/BeastBoard)](https://github.com/negativenagesh/BeastBoard/issues)
+[![GitHub license](https://img.shields.io/github/license/negativenagesh/BeastBoard)](https://github.com/negativenagesh/BeastBoard/blob/main/LICENSE)
 <p>
   <img src="logo/Beast.png" alt="HAG Banner" width="800" />
 </p>
